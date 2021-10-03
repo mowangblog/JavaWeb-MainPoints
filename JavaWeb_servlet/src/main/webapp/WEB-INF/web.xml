@@ -20,4 +20,13 @@
         <url-pattern>/servlet</url-pattern>
     </servlet-mapping>
 
+    <context-param>
+        <param-name>name</param-name>
+        <param-value>mowangblog</param-value>
+    </context-param>
+    <context-param>
+        <param-name>url</param-name>
+        <param-value>https://mowangblog.top</param-value>
+    </context-param>
+
 </web-app>
